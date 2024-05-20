@@ -1,1 +1,3 @@
-The odin project repository
+The odin project - recipes website
+
+This website will display some recipes
